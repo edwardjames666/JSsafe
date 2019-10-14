@@ -21,10 +21,10 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
-if(x=="1"){xxx="tips-for-adding-teenage-driver-to-your.html"}
-if(x=="2"){xxx="health-insurance-buy-claim-procedure.html"}
-if(x=="3"){xxx="looking-for-health-insurance-cancer.html"}
-if(x=="4"){xxx="health-insurance-for-disabled.html"}a_to_ve[i].href="https://gwrangerbiruapk.blogspot.com/2018/07/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="4-mistakes-most-reserved-all-risk.html"}
+if(x=="2"){xxx="you-should-know-not-all-of-risk-borne.html"}
+if(x=="3"){xxx="terms-in-car-insurance.html"}
+if(x=="4"){xxx="whether-all-risks-already-covered-by.html"}a_to_ve[i].href="https://https://mygameapksavelink.blogspot.com/2017/07/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
